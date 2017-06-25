@@ -1,0 +1,20 @@
+﻿
+            //Fraction d = 3;
+            //s(" Fraction ", d.Num, "/", d.Den, " == ", (double)d);
+            //s(" Fraction d = a + b");
+            //d = a + b;
+            //s(" Fraction ", d.Num, "/", d.Den, " == ", (double)d);
+            //s(" Fraction d = a - b");
+            //d = a - b;
+            //s(" Fraction ", d.Num, "/", d.Den, " == ", (double)d);
+            //s(" Fraction d = a * b");
+            //d = a * b;
+            //s(" Fraction ", d.Num, "/", d.Den, " == ", (double)d);
+            //s(" Fraction d = a / b");
+            //d = a / b;
+            //s(" Fraction ", d.Num, "/", d.Den, " == ", (double)d);
+            //Continue();
+            //s(" Fraction (a * b + c) == ", (double)(a * b + c));
+            //Continue();
+            //double e = d;
+            //s("double e = d ==  ", e);
